@@ -1,0 +1,81 @@
+body {
+  padding: 25px;
+  background-color: lightpink;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: green;
+}
+
+.navbarContainer{
+  border-bottom: 5px solid black;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 14px 16px;
+}
+
+.myDiv ul {
+  list-style-type: none;
+}
+
+li a:hover {
+  background-color: lightpink;
+}
+
+.img{
+  float: left;
+  }
+
+.start{
+  float: right;
+}
+
+.start{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+}
+
+.angie{
+  float: right;
+}
+
+.middle{
+  float: left;
+}
+
+.middle{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+}
+
+.jolo{
+  float: left;
+}
+
+.end{
+  float: right;
+}
+
+.end{
+  border: 1px solid;
+}
+
+.navbarContainer {
+  display: flex;
+justify-content: space-between;
+}
+
+.insta-link{
+  float: right;
+}
